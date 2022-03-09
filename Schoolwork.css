@@ -55,7 +55,7 @@
 
 .u-section-2 .u-text-2 {
   width: 864px;
-  margin: 47px auto 60px;
+  margin: 47px 138px 60px;
 }
 
 @media (max-width: 1199px) {
@@ -65,6 +65,11 @@
 
   .u-section-2 .u-layout-cell-3 {
     min-height: 342px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-left: 38px;
+    margin-right: 38px;
   }
 }
 
@@ -101,6 +106,8 @@
 
   .u-section-2 .u-text-2 {
     width: 720px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
