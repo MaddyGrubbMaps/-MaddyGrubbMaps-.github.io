@@ -602,6 +602,64 @@
   .u-section-7 .u-text-2 {
     width: 340px;
   }
-}.u-section-8 .u-sheet-1 {
+} .u-section-8 {
+  background-image: none;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 622px;
+}
+
+.u-section-8 .u-video-1 {
+  height: 483px;
+  width: 864px;
+  margin: 60px auto;
+}
+
+.u-section-8 .embed-responsive-1 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 541px;
+  }
+
+  .u-section-8 .u-video-1 {
+    height: 402px;
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 549px;
+  }
+
+  .u-section-8 .u-video-1 {
+    height: 300px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 473px;
+  }
+
+  .u-section-8 .u-video-1 {
+    height: 190px;
+    margin-top: 120px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}.u-section-9 .u-sheet-1 {
   min-height: 110px;
 }
