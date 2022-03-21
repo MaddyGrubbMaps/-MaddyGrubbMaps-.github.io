@@ -54,7 +54,6 @@
 }
 
 .u-section-2 .u-text-2 {
-  width: 864px;
   margin: 47px 138px 60px;
 }
 
@@ -68,6 +67,7 @@
   }
 
   .u-section-2 .u-text-2 {
+    width: 864px;
     margin-left: 38px;
     margin-right: 38px;
   }
